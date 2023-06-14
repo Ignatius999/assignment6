@@ -1,0 +1,29 @@
+/* CSS Document */
+h1{
+    color: blueviolet;
+    border:  black;
+}
+p{
+    color: indigo;
+    padding: 30px;
+    margin: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    color:forestgreen;
+    border:  black;
+}
+p{
+   color: blueviolet;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    color: darkblue;
+    border: black;
+}
+p{
+color: grey;
+padding: 30px;
+margin: 30px;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
